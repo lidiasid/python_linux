@@ -1,0 +1,7 @@
+folder_in: /home/lidiia/folder_in
+folder_out: /home/lidiia/folder_out
+folder_ext: /home/lidiia/folder_ext
+folder_ext2: /home/lidiia/folder_ext2
+count: 3
+bs: 1M
+type: zip
